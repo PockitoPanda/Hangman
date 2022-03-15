@@ -145,7 +145,6 @@ word_list = [
 'quizzes', 
 'quorum', 
 'razzmatazz', 
-'retard',
 'rhubarb', 
 'rhythm', 
 'rickshaw', 
